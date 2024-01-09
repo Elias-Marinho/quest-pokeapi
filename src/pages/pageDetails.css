@@ -1,0 +1,127 @@
+main {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main .header-details{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+main .btn-back{
+    font-weight: bolder;
+    font-size: 25px;
+    padding: 10px 20px;
+    border: solid 2px;
+    border-radius: 10px;
+
+    display: inline-block;
+    vertical-align: middle;
+    transform: perspective(1px) translateZ(0);
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
+
+main .btn-back:hover{
+    transform: scale(1.1);
+}
+
+main .details{
+    display: flex;
+    align-items: stretch;
+}
+
+main .card-pokemon {
+    margin: 50px;
+    border-radius: 10px;
+    max-height: 335px;
+    border: solid 4px;
+}
+
+main .card-pokemon .pokemon-img{
+    width: 250px;
+}
+
+main .card-pokemon .pokemon-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+main .card-pokemon .pokemon-type{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+main .card-info {
+    margin: 50px;
+    border-radius: 10px;
+    border: solid 4px;
+}
+
+main .card-info h3{
+    margin: 20px 20px 15px 20px;
+    font-size: 25px;
+}
+
+main .card-info .abilitys{
+    margin: 0 20px 10px 20px;
+    font-size: 20px;
+}
+
+main .card-info .container-move{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-height: 400px;
+}
+
+main .card-info .moves{
+    margin: 0 20px 10px 20px;
+    font-size: 20px;
+    
+}
+
+@media (max-width: 850px) {
+    .details {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card-pokemon{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 30px;
+    }
+
+    main .card-info{
+        margin-top: 0px;
+    }
+}
+
+@media (max-width: 500px) {
+    .header-details{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .btn-back{
+        margin-top: 20px;
+    }
+
+    main .card-info .container-move{
+        max-height: 800px;
+    }
+}
+
