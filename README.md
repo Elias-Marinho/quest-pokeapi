@@ -18,5 +18,5 @@
 
 ![image](https://github.com/user-attachments/assets/7ac7ceb2-5183-4f79-9466-a31063c418fa)
 
-![Captura de tela 2024-08-07 141649](https://github.com/user-attachments/assets/990d144f-8c47-458a-aee0-c1f0c69d3f69)
+![image](https://github.com/user-attachments/assets/dca49cd9-93ee-412f-84b2-ccb1da413fde)
 ![Captura de tela 2024-08-07 141715](https://github.com/user-attachments/assets/5b9747d5-e69a-4873-9721-4733295d7cf0)
