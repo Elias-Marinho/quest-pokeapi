@@ -11,12 +11,12 @@
 
 ![image](https://github.com/user-attachments/assets/de2a6fa2-9993-4120-958b-38aa993ce2a7)
 
-![Captura de tela 2024-08-07 141619](https://github.com/user-attachments/assets/0f2a4677-3467-4bcf-9272-e50301b63e4c)
-![Captura de tela 2024-08-07 141638](https://github.com/user-attachments/assets/1bcde915-cf4c-4355-92a3-9bbe520372a1)
+![image](https://github.com/user-attachments/assets/0f2a4677-3467-4bcf-9272-e50301b63e4c)
+![image](https://github.com/user-attachments/assets/1bcde915-cf4c-4355-92a3-9bbe520372a1)
 
 <p>Modo Noturno: O projeto possui um modo noturno que tem a intenção de parecer uma tela desligada. Isso é feito usando cores mais escuras, mas ainda mantendo o foco no design.</p>
 
 ![image](https://github.com/user-attachments/assets/7ac7ceb2-5183-4f79-9466-a31063c418fa)
 
 ![image](https://github.com/user-attachments/assets/dca49cd9-93ee-412f-84b2-ccb1da413fde)
-![Captura de tela 2024-08-07 141715](https://github.com/user-attachments/assets/5b9747d5-e69a-4873-9721-4733295d7cf0)
+![image](https://github.com/user-attachments/assets/5b9747d5-e69a-4873-9721-4733295d7cf0)
